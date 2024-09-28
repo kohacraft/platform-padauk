@@ -2,7 +2,7 @@
   "build": {
     "f_cpu": 1000000,
     "size_ram": 96,
-    "size_code": 1536,
+    "size_code": 3072,
     "mcu": "PMS171B",
     "cpu": "pdk14",
     "calibration_voltage": 4.0
@@ -10,7 +10,7 @@
   "frameworks": ["easypdk"],
   "upload": {
     "maximum_ram_size": 96,
-    "maximum_size": 1536,
+    "maximum_size": 3072,
     "protocol": "easy-pdk-programmer",
     "protocols": [
       "easy-pdk-programmer"
