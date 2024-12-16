@@ -15,7 +15,7 @@
     "type": "git",
     "url": "https://github.com/kohalab/platform-padauk.git"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "frameworks": {
     "easypdk": {
       "package": "framework-easypdk",
