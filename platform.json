@@ -25,7 +25,7 @@
   "packages": {
     "framework-easypdk": {
       "type": "framework",
-      "version": "https://github.com/1500WK1500/framework-easypdk.git"
+      "version": "https://github.com/kohalab/framework-easypdk.git"
     },
     "toolchain-sdcc": {
       "type": "toolchain",
