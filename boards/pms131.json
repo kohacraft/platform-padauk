@@ -1,0 +1,22 @@
+{
+    "build": {
+      "f_cpu": 1000000,
+      "size_ram": 88,
+      "size_code": 3072,
+      "mcu": "PMS131",
+      "cpu": "pdk14",
+      "calibration_voltage": 4.0
+    },
+    "frameworks": ["easypdk"],
+    "upload": {
+      "maximum_ram_size": 88,
+      "maximum_size": 3072,
+      "protocol": "easy-pdk-programmer",
+      "protocols": [
+        "easy-pdk-programmer"
+      ]
+    },
+    "name": "Generic PMS131",
+    "url": "https://www.padauk.com.tw/en/product/index.aspx?kind=41",
+    "vendor": "Padauk Technology"
+  }
